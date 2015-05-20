@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameGeneratorUI", "NameGeneratorUI\NameGeneratorUI.csproj", "{20BF913A-FD9D-4B98-BAF6-D9C870668CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParentUI", "ParentUI\ParentUI.csproj", "{9C84B656-DC56-4F52-85D7-126E6606DD33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20BF913A-FD9D-4B98-BAF6-D9C870668CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BF913A-FD9D-4B98-BAF6-D9C870668CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BF913A-FD9D-4B98-BAF6-D9C870668CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BF913A-FD9D-4B98-BAF6-D9C870668CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C84B656-DC56-4F52-85D7-126E6606DD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C84B656-DC56-4F52-85D7-126E6606DD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C84B656-DC56-4F52-85D7-126E6606DD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C84B656-DC56-4F52-85D7-126E6606DD33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
